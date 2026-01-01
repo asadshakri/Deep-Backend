@@ -10,7 +10,7 @@ Key backend features include:
 
 - Create Event API with multipart form-data support for image uploads
 - Read Events API with pagination, type-based filtering, and single-event retrieval using eventId
-- Update Event bu]y its unique id.
+- Update Event by its unique id.
 - Delete Event API for permanent removal of events
 - Multer-based image handling with validation for image-only uploads
 - timestamping (createdAt, updatedAt) for data tracking
